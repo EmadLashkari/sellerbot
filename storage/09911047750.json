@@ -1,0 +1,107 @@
+{
+  "cookies": [
+    {
+      "name": "did",
+      "value": "9f70f9ba-6906-421b-9d12-1487286f1d8d",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": 1813661932.868419,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cdid",
+      "value": "1b3fb5d2-8ff9-4c1e-9e82-b03094425739",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": 1813661932.868745,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ff",
+      "value": "%7B%22f%22%3A%7B%22foreigner_payment_enabled%22%3Atrue%2C%22enable_filter_post_count_web%22%3Atrue%2C%22device_fp_enable%22%3Atrue%2C%22enable-places-selector-online-search-web%22%3Atrue%2C%22chat_message_disabled%22%3Atrue%2C%22web_sentry_sample_rate%22%3A0.2%2C%22enable-screen-size-metric%22%3Atrue%7D%2C%22e%22%3A1779105582567%2C%22r%22%3A1779188382567%7D",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": 1779188332.868864,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "referrer",
+      "value": "",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": 1813661936.539408,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csid",
+      "value": "",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "theme",
+      "value": "light",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": 1813661938.766043,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "multi-city",
+      "value": "mashhad%7C",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": 1813661936.539488,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "city",
+      "value": "mashhad",
+      "domain": ".divar.ir",
+      "path": "/",
+      "expires": 1813661936.539542,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://divar.ir",
+      "localStorage": [
+        {
+          "name": "search-history-v2",
+          "value": "{\"records\":[]}"
+        },
+        {
+          "name": "event_queue",
+          "value": "[{\"action\":\"google_referrer_detected\",\"cookie_referrer\":\"\",\"document_referrer\":\"\",\"referrers_match\":true,\"pathName\":\"/s/mashhad\",\"created_at\":1779101938771,\"google_referrer_detected\":true,\"traffic_data\":{\"source\":\"\",\"medium\":\"\",\"campaign\":\"\",\"term\":\"\",\"content\":\"\",\"referrer\":\"\"}},{\"action\":\"login\",\"action_login\":true,\"source_view\":\"mydivar_login\",\"status\":\"activated\",\"created_at\":1779101939158,\"traffic_data\":{\"source\":\"\",\"medium\":\"\",\"campaign\":\"\",\"term\":\"\",\"content\":\"\",\"referrer\":\"\"}}]"
+        },
+        {
+          "name": "my-viewed-posts",
+          "value": "[]"
+        },
+        {
+          "name": "is-store-reset",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}
